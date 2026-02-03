@@ -5,6 +5,6 @@ I would like to express my sincere gratitude to Prof. Zhao for sharing his excel
 And I will continue to upload new scripts and improve the existing codebase in the future.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0e4c3090-ecf8-4b72-8835-f7d41a4cee7b" width="700" alt="Chapter 4: Policy Iteration Result">
+  <img src="https://github.com/user-attachments/assets/0e4c3090-ecf8-4b72-8835-f7d41a4cee7b" width="500" alt="Chapter 4: Policy Iteration Result">
 </div>
 <br>
